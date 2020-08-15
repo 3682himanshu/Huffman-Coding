@@ -14,4 +14,4 @@ take input from encoded file and reconvert it into orignal text.<br>
 3) Bit Manipulation<br>
 3) File handeling <br>
 ## Outcome
-1) Converted large size data file to small size encoded file.<br>
+1) Converted large size data file to small size encoded file(input fil size = 54 Bytes While encoded file size = 28 Bytes).<br>
